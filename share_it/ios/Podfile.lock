@@ -1,0 +1,46 @@
+PODS:
+  - Differ (1.4.5)
+  - Flutter (1.0.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - MicrosoftCognitiveServicesSpeech-iOS (1.40.0)
+  - photo_manager (2.0.0):
+    - Flutter
+    - FlutterMacOS
+  - wifi_iot (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Differ
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - MicrosoftCognitiveServicesSpeech-iOS (~> 1.25)
+  - photo_manager (from `.symlinks/plugins/photo_manager/ios`)
+  - wifi_iot (from `.symlinks/plugins/wifi_iot/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Differ
+    - MicrosoftCognitiveServicesSpeech-iOS
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  photo_manager:
+    :path: ".symlinks/plugins/photo_manager/ios"
+  wifi_iot:
+    :path: ".symlinks/plugins/wifi_iot/ios"
+
+SPEC CHECKSUMS:
+  Differ: 3b6bd78e2b20cc795d9a86f7641d087524e4273e
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  image_picker_ios: c560581cceedb403a6ff17f2f816d7fea1421fc1
+  MicrosoftCognitiveServicesSpeech-iOS: 27edbb898c00da13b63a6e73e910d4ced8d54791
+  photo_manager: ff695c7a1dd5bc379974953a2b5c0a293f7c4c8a
+  wifi_iot: b5aafd6f9b52f8a357383a1deabab45f31cd602d
+
+PODFILE CHECKSUM: a4ef57d663140dc30183fda84550b6f4af57fe49
+
+COCOAPODS: 1.15.2

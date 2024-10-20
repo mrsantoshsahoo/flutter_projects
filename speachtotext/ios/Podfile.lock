@@ -1,0 +1,23 @@
+PODS:
+  - Flutter (1.0.0)
+  - InstantSearchVoiceOverlay (1.2.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - InstantSearchVoiceOverlay (~> 1.2.0)
+
+SPEC REPOS:
+  trunk:
+    - InstantSearchVoiceOverlay
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  InstantSearchVoiceOverlay: d9d5db7314ec8416dcf4ed49df2000e8ee0abe2b
+
+PODFILE CHECKSUM: fa00379c475cdeb01b60300e6bcb08df40b3c8e2
+
+COCOAPODS: 1.15.2
